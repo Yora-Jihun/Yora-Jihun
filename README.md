@@ -2,7 +2,7 @@
 
 ## About Me
 
-**Fullstack Developer** | **AI Developer** | **Firmware Engineer**  
+**Former National Lead Developer** | **AI Specialist** | **Firmware Engineer** | **3D Artist** | **IOT / Automation** | **Research Contributor**   
 NASA and Space X Contributor
 
 I'm passionate about building innovative solutions across the full stack, from frontend interfaces to backend systems. My expertise spans AI/ML development, embedded firmware engineering, and space technology contributions.
