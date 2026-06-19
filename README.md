@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hello, I'm Yora-Jihun
 
-<!--
-**Yora-Jihun/Yora-Jihun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+**Fullstack Developer** | **AI Developer** | **Firmware Engineer**  
+NASA and Space X Contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building innovative solutions across the full stack, from frontend interfaces to backend systems. My expertise spans AI/ML development, embedded firmware engineering, and space technology contributions.
+
+---
+
+## Skills & Expertise
+
+- **Fullstack Development**: Frontend, Backend, Databases, APIs
+- **AI/Machine Learning**: Model development, NLP, Computer Vision
+- **Firmware Engineering**: Embedded systems, low-level programming
+- **Space Technology**: Contributing to NASA and SpaceX initiatives
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yora-Jihun&show_icons=true&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yora-Jihun&layout=compact&theme=default)
+
+---
+
+## Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yora-Jihun&theme=github-light)
+
+---
+
+## What I Do
+
+- Develop intelligent applications powered by AI
+- Build scalable fullstack solutions
+- Work on firmware for space and aerospace applications
+- Collaborate on cutting-edge technology projects
+
+---
+
+## Get In Touch
+
+Feel free to reach out or explore my projects on GitHub!
+
+---
+
+**Let's build the future together**
