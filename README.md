@@ -20,8 +20,6 @@ I'm passionate about building innovative solutions across the full stack, from f
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yora-Jihun&show_icons=true&theme=default&hide_title=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yora-Jihun&layout=compact&theme=default)
 
 ---
