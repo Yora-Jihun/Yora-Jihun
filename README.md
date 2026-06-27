@@ -6,7 +6,7 @@
 **Former National Lead Developer** | **AI Specialist** | **Firmware Engineer** | **3D Artist** | **IOT / Automation** | **Research Contributor**   
 NASA and Space X Contributor
 
-I'm passionate about building innovative solutions across the full stack, from frontend interfaces to backend systems. My expertise spans AI/ML development, embedded firmware engineering, and space technology.
+I'm passionate about building innovative solutions across the full stack, from frontend interfaces to backend systems. My expertise spans AI/ML development, embedded firmware engineering, and space technology contributions.
 
 ---
 
@@ -21,7 +21,8 @@ I'm passionate about building innovative solutions across the full stack, from f
 
 ## Wakatime Statistics
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yora-Jihun&layout=compact&theme=default)](https://wakatime.com/@Yora-Jihun)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
