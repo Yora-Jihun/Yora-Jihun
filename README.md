@@ -1,4 +1,5 @@
-# Hello, I'm Yora-Jihun
+# Science and Technology isn't just my passion — it's my life.
+
 
 ## About Me
 
